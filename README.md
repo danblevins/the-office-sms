@@ -10,6 +10,7 @@ My friend and I always send each other quotes from The Office. I created this ap
 ## Installation & Usage
 Visit https://theoffice-web.herokuapp.com/ or text the name of an Office character (like "Dwight" or "Michael") to (206)-589-5333.
 <br>
+<br>
 Here's an example of the app's funcationality:
 <br>
 
