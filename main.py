@@ -6,7 +6,7 @@ import requests
 
 from utils.getCredentials import get_credentials
 from activity.getData import get_data
-from activity.cleanData import get_data
+from activity.cleanData import clean_data
 
 app = Flask(__name__)
 Bootstrap(app)
